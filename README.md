@@ -20,4 +20,4 @@ Next
 End Sub
 
 4. Originally, it also ran the macro to link Excel to this powerpoint presentation to change score where a student would keep track of the scoring on an excel sheet which is formulated to tabulate the score there and display it on the presentation as the group played. 
-5. Again, the updates to Powerpoint over the years negate3d the need for the macro and now the same is accomplished through more links between PowerPoint and Excel
+5. Again, the updates to Powerpoint over the years negated the need for the macro and now the same is accomplished through more links between PowerPoint and Excel
