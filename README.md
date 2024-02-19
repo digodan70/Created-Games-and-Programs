@@ -1,4 +1,4 @@
-This game was created to solve many dilemmas in the educational world, however, there were several technicalities that needed to be solved.:
+This game was created to solve many dilemmas in the educational world. However, there were several technicalities that needed to be solved.:
 1. How can it be used on many, if not sall machines. This game was created using powerpoint because most machines have that installed in one version or another
 2. The hyperlinks. This game has over 900 hyperlinks within it originally. Over the subsequent years, updates to Powerpoint allowed that number to fall in half. 
 3. Because of the shear number of hyperlinks, I used the foillowing macro code to keep track of all of them:
